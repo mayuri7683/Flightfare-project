@@ -1,1 +1,2 @@
-# Flightfare-project
+# Flightfare-Predictor
+The notebook processes flight data, does feature engineering, outlier removal, skewness correction, scaling, and trains models (Linear Regression, RandomForest, DecisionTree, AdaBoost). Best model appears to be RandomForest with GridSearch tuning. The README should be small, unique, with some key numbers. Focus on problem, data, feature engineering highlights, model performance metrics, and final output. Use markdown with emojis, tables, code snippets? Keep concise.
